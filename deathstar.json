@@ -4,10 +4,10 @@
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
-	"powersource": "hypermatter reactor",
+	"powersource": "hypermart reactor",
 	"specification": {
 		"scale": "km",	
-		"lenght": 120,
+		"length": 120,
 		"width": 120,
 		"height": 120
         },
