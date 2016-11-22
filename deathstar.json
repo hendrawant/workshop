@@ -1,8 +1,8 @@
 {
 	"id": 1,
 	"name": "Conflict Resolved Star",
-	"identifier": "DS-1 platform",
-	"commander": "Grand Moff",
+	"identifier": "DS-1 platform test",
+	"commander": "Grand Moff Geje Test",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
